@@ -1,0 +1,14 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node and Express exercise",
+  "main": "index.js",
+  "author": "Damola",
+  "license": "MIT",
+  "scripts":{
+    "start":"node Server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
